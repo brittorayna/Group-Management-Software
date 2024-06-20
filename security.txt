@@ -1,0 +1,6 @@
+To securely store the user's passwords we instead store a hash of the user's password.
+Whenever the user signs into the site, we compare the hash of the inputted password to the one we have in the database.
+This approach allows us to never actually store the raw value of the user's password,
+meaning that in the case of a data breach, user's passwords are not exposed.
+When hashing a salt is added to the hash to help prevent the hashing method from being discovered.
+This would likely occur if all passwords were hashed in exactly the same way.

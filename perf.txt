@@ -1,0 +1,2 @@
+//1. statements used to create indices
+//2. the queries that were affected
