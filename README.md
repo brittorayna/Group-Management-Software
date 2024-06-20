@@ -1,5 +1,3 @@
-# CSCI-4370-Final-Project [Group 8]
-
 ## PROJECT DESCRIPTION
 Title → 🐡 Grouper: A Group Management System
 
@@ -41,12 +39,6 @@ http://localhost:8081/login
 
 - Accounts in User table with ID # 1 - 749 have the password "123"
 - Accounts in User table with ID # 750 - 1000 have the password "password"
-
-## CONTRIBUTIONS
-- Diya Anand (da71571@uga.edu): UI, data.sql, backend
-- Rayna Britto (rmb11589@uga.edu): data.sql, backend
-- Casey Wesolowski (crw80000@uga.edu): backend
-- Steven Pumel (spp60436@uga.edu): ddl.sql, normalization, security.txt, queries.sql, backend
 
 ## TECH USED
 - Frontend: Spring Boot Framework, Mustache, CSS, Figma (UI design), Google Fonts (Josefin Sans and Jura)
